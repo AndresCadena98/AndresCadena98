@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/andresalaniscadena](https://www.linkedin.com/in/andres-alanís-cadena-50a8541aa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres alanís cadena" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andres-alanís-cadena-50a8541aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres alanís cadena" height="30" width="40" /></a>
 <a href="https://fb.com/andresalaniscadena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andres alanis cadena" height="30" width="40" /></a>
 <a href="https://instagram.com/andres_cadena98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andres_cadena98" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/andev](https://www.youtube.com/channel/UCcklVwhAywS7KaB6td7w8vg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcklVwhAywS7KaB6td7w8vg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
